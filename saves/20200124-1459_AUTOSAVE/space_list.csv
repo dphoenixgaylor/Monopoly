@@ -1,0 +1,41 @@
+,Name,SL_initials,SL_price
+0,GO,GO  ,+$200
+1,Mediterranean Ave,MA  ,*PROP
+2,COMMUNITY,COM ,CHEST
+3,Baltic Ave,BA  ,*PROP
+4,INCOME TAX,TAX ,  10%
+5,Reading Railroad,RR  ,*PROP
+6,Oriental Ave,OA  ,*PROP
+7,CHANCE,CH  ,CARD 
+8,Vermont Ave,VA  ,*PROP
+9,Connecticut Ave,CA  ,*PROP
+10,JUST VISITING,JUST,VISIT
+11,St. Charles Place,SCP ,*PROP
+12,Electric Company,EC  ,*PROP
+13,States Ave,SA  ,*PROP
+14,Virginia Ave,VA  ,*PROP
+15,Pennsylvania Railroad,PR  ,*PROP
+16,St. James Place,SJP ,*PROP
+17,COMMUNITY,COM ,CHEST
+18,Tennessee Ave,TA  ,*PROP
+19,New York Ave,NYA ,*PROP
+20,FREE PARKING,FR P,+$100
+21,Kentucky Ave,KA  ,*PROP
+22,CHANCE,CH  ,CARD 
+23,Indiana Ave,IA  ,*PROP
+24,Illinois Ave,IA  ,*PROP
+25,B. & O. Railroad,B&O ,*PROP
+26,Atlantic Ave,AA  ,*PROP
+27,Ventnor Ave,VA  ,*PROP
+28,Water Works,WW  ,*PROP
+29,Marvin Gardens,MG  ,*PROP
+30,GO TO JAIL,GOTO,JAIL 
+31,Pacific Ave,PA  ,*PROP
+32,North Carolina Ave,NCA ,*PROP
+33,COMMUNITY,COM ,CHEST
+34,Pennsylvania Ave,PA  ,*PROP
+35,Short Line,SL  ,*PROP
+36,CHANCE,CH  ,CARD 
+37,Park Place,PP  ,*PROP
+38,Luxury Tax,TAX ,$  75
+39,Boardwalk,B   ,*PROP

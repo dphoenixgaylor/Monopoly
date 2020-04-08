@@ -1,0 +1,17 @@
+,Description,SetPosition,MoneyEarned,Note
+0,GET OUT OF JAIL FREE!,,0,KEEP
+1,"Advance to ""GO"" and collect $200!",0.0,0,
+2,Advance to Illinois Ave.,24.0,0,
+3,Advance to St. Charles Place.,11.0,0,
+4,Advance to nearest the nearest utility.,,0,UTILITY
+5,"Advance to nearest railroad and pay 2x rent, if owned!",,0,RAILROAD
+6,"Advance to nearest railroad and pay 2x rent, if owned!",,0,RAILROAD
+7,Bank pays you dividend of $50.,,50,
+8,Go back 3 spaces.,,0,BACK
+9,GO TO JAIL!,-1.0,0,
+10,"Make general repairs on all your property. For each house pay $25. For each hotel, pay $100.",,0,REPAIR
+11,Pay poor tax of $15.,,-15,
+12,Take a trip to Reading Railroad.,5.0,0,
+13,Take a walk on the Boardwalk.,39.0,0,
+14,You have been elected Chariman of the Board. Pay each player $50.,,-50,PLAYER
+15,Your building loan matures. Receive $150!,,150,

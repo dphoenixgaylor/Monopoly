@@ -1,0 +1,32 @@
+* DOCUMENTATION
+* mortgage properties
+* view property details in [me]
+* overview (players ranked by wealth + prop value)
+* h_portion +_ when >5 on space
+* quit -> save continues game
+* quit -> give a confirmation to quit
+* landing - no hardcoded values
+* "street repairs" in community broken
+* current pos = -1 gives "Boardwalk", not jail
+* coming out of jail starts at -1, not 10
+* go back 3 spaces community broken
+* spacing between prompts
+  - "It's your turn" (+1)
+  - after "landed on Chance/CC" (+1)
+  - after a card is read (+1)
+* currently, only 1 possible GOJ card (is card 0)
+
+
+short_game options	
+turn_limit	0
+time_limit	0
+starting_props	0
+num_bankrupts	0
+
+
+* # for hotel should be at least 2 and house prices must be defined up until the point of hotel
+
+* MoneyEarned from Income Tax is maximum loss
+* all rents must have multiple values (can be the same)
+* type 'dev' in N/R to get whether custom will run
+* named blank spaces should be included in "special locations"

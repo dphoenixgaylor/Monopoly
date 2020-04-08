@@ -1,0 +1,5 @@
+,name,location,rents,prices,owner,rr_owned,mortgaged,railroad_names
+0,Reading Railroad,5,"[25, 50, 100, 200]",200,,0,False,Reading Railroad
+1,Pennsylvania Railroad,15,"[25, 50, 100, 200]",200,,0,False,Pennsylvania Railroad
+2,B. & O. Railroad,25,"[25, 50, 100, 200]",200,,0,False,B. & O. Railroad
+3,Short Line,35,"[25, 50, 100, 200]",200,,0,False,Short Line

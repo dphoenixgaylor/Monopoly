@@ -1,0 +1,3 @@
+,name,color,money,position,properties,cards,isTurn,turnCount,jail
+0,P,red,1500,0,[],"[False, False]",False,0,-1
+1,Y,yellow,1500,0,[],"[False, False]",False,0,-1

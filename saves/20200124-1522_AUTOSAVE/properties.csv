@@ -1,0 +1,23 @@
+,name,location,color,rents,prices,owner,set,houses,mortgaged,property_names
+0,Mediterranean Ave,1,brown,"[2, 4, 10, 30, 90, 160, 250]","[60, 50]",,False,0,False,Mediterranean Ave
+1,Baltic Ave,3,brown,"[4, 8, 20, 60, 180, 320, 450]","[60, 50]",,False,0,False,Baltic Ave
+2,Oriental Ave,6,lightblue,"[6, 12, 30, 90, 270, 400, 550]","[100, 50]",,False,0,False,Oriental Ave
+3,Vermont Ave,8,lightblue,"[6, 12, 30, 90, 270, 400, 550]","[100, 50]",,False,0,False,Vermont Ave
+4,Connecticut Ave,9,lightblue,"[8, 16, 40, 100, 300, 450, 600]","[120, 50]",,False,0,False,Connecticut Ave
+5,St. Charles Place,11,pink,"[10, 20, 50, 150, 450, 625, 750]","[140, 100]",,False,0,False,St. Charles Place
+6,States Ave,13,pink,"[10, 20, 50, 150, 450, 625, 750]","[140, 100]",,False,0,False,States Ave
+7,Virginia Ave,14,pink,"[12, 24, 60, 180, 500, 700, 900]","[160, 100]",,False,0,False,Virginia Ave
+8,St. James Place,16,orange,"[14, 28, 70, 200, 550, 750, 950]","[180, 100]",,False,0,False,St. James Place
+9,Tennessee Ave,18,orange,"[14, 28, 70, 200, 550, 750, 950]","[180, 100]",,False,0,False,Tennessee Ave
+10,New York Ave,19,orange,"[16, 32, 80, 220, 600, 800, 1000]","[200, 100]",,False,0,False,New York Ave
+11,Kentucky Ave,21,red,"[18, 36, 90, 250, 700, 875, 1050]","[220, 150]",,False,0,False,Kentucky Ave
+12,Indiana Ave,23,red,"[18, 36, 90, 250, 700, 875, 1050]","[220, 150]",,False,0,False,Indiana Ave
+13,Illinois Ave,24,red,"[20, 40, 100, 300, 750, 925, 1100]","[240, 150]",,False,0,False,Illinois Ave
+14,Atlantic Ave,26,yellow,"[22, 44, 110, 330, 800, 975, 1150]","[260, 150]",,False,0,False,Atlantic Ave
+15,Ventnor Ave,27,yellow,"[22, 44, 110, 330, 800, 975, 1150]","[260, 150]",,False,0,False,Ventnor Ave
+16,Marvin Gardens,29,yellow,"[24, 48, 120, 360, 850, 1025, 1200]","[280, 150]",,False,0,False,Marvin Gardens
+17,Pacific Ave,31,green,"[26, 52, 130, 390, 900, 1100, 1275]","[300, 200]",,False,0,False,Pacific Ave
+18,North Carolina Ave,32,green,"[26, 52, 130, 390, 900, 1100, 1275]","[300, 200]",,False,0,False,North Carolina Ave
+19,Pennsylvania Ave,34,green,"[28, 56, 150, 450, 1000, 1200, 1400]","[320, 200]",,False,0,False,Pennsylvania Ave
+20,Park Place,37,blue,"[35, 70, 175, 500, 1100, 1300, 1500]","[350, 200]",,False,0,False,Park Place
+21,Boardwalk,39,blue,"[50, 100, 200, 600, 1400, 1700, 2000]","[400, 200]",,False,0,False,Boardwalk
